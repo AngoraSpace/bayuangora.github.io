@@ -4,9 +4,9 @@ https://angora.now.sh
 
 https://angora.tiiny.site
 
-https://angora.stormkit.dev
+https://angora.netlify.app
 
-https://angora.netlify.com
+https://angora.stormkit.dev
 
 https://angora.onrender.com
 
