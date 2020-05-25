@@ -2,6 +2,8 @@ https://angora.me
 
 https://angora.now.sh
 
+https://angora.imfast.io
+
 https://angora.tiiny.site
 
 https://angora.netlify.app
