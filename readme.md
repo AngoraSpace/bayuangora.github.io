@@ -21,12 +21,12 @@
 • https://vercel.com  
 
 ## Image  
+• https://getcloudapp.com  
 • https://cloudimage.com  
 • https://cloudinary.com  
 • https://imagekit.io  
 • https://sirv.com  
 • https://statically.io  
-• https://uploadcare.com  
 
 ## Monitor  
 • https://freshping.io  
@@ -70,9 +70,14 @@
 • https://pcloud.com  
 
 ## Tracker  
+• https://clicky.com  
+• https://extrawatch.com  
+• https://flagcounter.com  
 • https://histats.com  
+• https://revolvermaps.com  
 • https://statcounter.com  
 • https://w3counter.com  
+• https://web-stat.com  
 
 ## Validator  
 • https://copyrighted.com  
