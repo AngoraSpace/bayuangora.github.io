@@ -25,6 +25,7 @@
 • https://cloudimage.com  
 • https://cloudinary.com  
 • https://imagekit.io  
+• https://imgix.com  
 • https://sirv.com  
 • https://statically.io  
 
@@ -68,6 +69,7 @@
 • https://mediafire.com  
 • https://multcloud.com  
 • https://pcloud.com  
+• https://zoolz.com  
 
 ## Tracker  
 • https://clicky.com  
