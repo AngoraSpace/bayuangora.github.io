@@ -1,19 +1,46 @@
-https://angora.me
+# Free Source
 
-https://angora.now.sh
+## Host
+• https://fast.io
+• https://netlify.com
+• https://render.com
+• https://stormkit.io
+• https://vercel.com
 
-https://angora.tiiny.site
+## Image
+• https://cloudinary com
+• https://imagekit.io
+• https://sirv.com
+• https://statically.io
+• https://uploadcare.com
 
-https://angora.imfast.io
+## Monitor
+• https://statuscake.io
+• https://updown.io
+• https://uptime.com
+• https://uptimerobot.com
+• https://uptrends.com
 
-https://angora.netlify.app
+## Performance
+• https://bitcatcha.com
+• https://gtmetrix.com
+• https://testmysite.io
+• https://tools.keycdn.com
+• https://tools.pingdom.com
+• https://webpagetest.org
+• https://web.dev
 
-https://angora.stormkit.dev
+## Security
+• https://hardenize.com
+• https://observatory.mozilla.org
+• https://securityheaders.com
+• https://sitecheck.sucuri.net
+• https://ssllabs.com
 
-https://angora.onrender.com
-
-https://bayuangora.github.io
-
-https://bayuangora.bitbucket.io
-
-https://ik.imagekit.io/angora/index.html
+## Storage
+• https://box.com
+• https://dropbox.com
+• https://files.fm
+• https://mediafire.com
+• https://multcloud.com
+• https://pcloud.com
