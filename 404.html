@@ -44,14 +44,84 @@ A highly passionate artist, blogger, metalhead, vaperocker. Listed on various cr
 <link rel="mask-icon" color="#e00" href="https://angora.me/safari-pinned-tab.svg">
 <link rel="stylesheet" type="text/css" media="all" href="https://angora.me/start.css">
 
+<style>
+html {
+scroll-behavior: smooth;
+text-rendering: optimizeSpeed;
+-webkit-tap-highlight-color: transparent;
+}
+body {
+font-family: "calibri", sans-serif;
+font-size: 18px;
+font-weight: 400;
+padding: 0;
+margin: 0;
+color: #ddd;
+background: #000;
+}
+::selection {
+color: #e00;
+background: transparent;
+}
+*, *::before, *::after {
+box-sizing: border-box;
+}
+main {
+display: flex;
+flex-direction: column;
+justify-content: center;
+min-height: 100vh;
+padding: 0 30px;
+text-align: center;
+}
+h1, h2, h3, h4, h5, h6 {
+font-weight: 700;
+padding: 0;
+margin: 0;
+}
+h1, h2, h3 {
+font-size: 27px;
+margin: 20px 0 0;
+}
+h6 a {
+font-size: 12px;
+line-height: 20px;
+padding: 5px;
+color: #ddd;
+text-decoration: none;
+border-bottom: 2px solid #e00;
+}
+.grim {
+margin: 20px auto -60px;
+}
+.reaper {
+width: 240px;
+}
+.menu {
+padding: 20px;
+}
+.menu-icon {
+width: 48px;
+fill: #ddd;
+vertical-align: middle;
+transition: fill 0.5s ease;
+}
+.menu-icon:hover {
+fill: #e00;
+}
+.hidden {
+display: none;
+}
+</style>
+
 </head>
 
 <body>
 
 <main>
 
-<h1 class="title">Bayu Angora</h1>
-<h2 class="tagline">Freethinker Indonesia</h2>
+<h1 class="hidden">Bayu Angora</h1>
+<h2 class="hidden">Freethinker Indonesia</h2>
 
 <div class="grim">
 <a href="https://angora.me">
@@ -96,9 +166,9 @@ A highly passionate artist, blogger, metalhead, vaperocker. Listed on various cr
 </div>
 
 <br>
-<div id="mode">
-<div id="darkBtn">☀</div>
-<div id="lightBtn" class="hidden">☀</div>
+<div id="mode" class="hidden">
+<div id="darkBtn">_</div>
+<div id="lightBtn">_</div>
 </div>
 <br>
 
