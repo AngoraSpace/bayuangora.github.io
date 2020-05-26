@@ -1,6 +1,5 @@
 ---
 title: Hello World
-layout: post
 ---
 
 **Hello world**, this is my first Jekyll blog post.
