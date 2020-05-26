@@ -1,0 +1,34 @@
+layout: stacked
+style: dark
+
+permalink: /:title/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+plugins:
+  - jemoji
+  - jekyll-octicons
+  - jekyll-github-metadata
+
+projects:
+  sort_by: pushed
+  # sort_by options:
+  #   - pushed
+  #   - stars
+  limit: 2
+  exclude:
+    archived: false
+    forks: false
+    projects:
+    # - repo-name
+
+social_media:
+  facebook: BayuAngora
+  twitter: BayuAngora
+  instagram: BayuAngora
