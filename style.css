@@ -4,13 +4,13 @@
 font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol !important;
 }
 .repo-language-color {
-filter: brightness(125%) !important;
-border-radius: 50%;
-display: inline-block;
-height: 12px;
-position: relative;
 top: 2px;
 width: 12px;
+height: 12px;
+border-radius: 50%;
+display: inline-block;
+position: relative;
+filter: brightness(125%) !important;
 }
 .emoji {
 width: 18px;
@@ -39,6 +39,11 @@ margin-bottom: 0px;
 }
 .min-height-full {
 min-height: 100vh;
+}
+.highlight {
+width: 100%;
+overflow: auto;
+background: #ffffff;
 }
 .copyright {
 color: #ffffff;
