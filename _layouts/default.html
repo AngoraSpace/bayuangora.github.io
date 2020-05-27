@@ -1,3 +1,5 @@
+<!doctype html>
+
 {% if site.style == 'dark' %}
   {% assign icon_color = "#ffffff" %}
 {% else %}
@@ -14,7 +16,6 @@
   {% assign meta_description = user.bio | strip_html | strip_newlines | xml_escape | truncate: 300 %}
 {% endif %}
 
-<!doctype html>
 <html class="min-height-full">
 
   <head>
