@@ -46,15 +46,15 @@
 <br>
 • <a href="https://imgix.com">https://imgix.com</a>
 <br>
-• <a href="https://sirv.com">https://sirv.com</a>
-<br>
-• <a href="https://statically.io">https://statically.io</a>
+• <a href="https://loremflickr.com">https://loremflickr.com</a>
 <br>
 • <a href="https://picsum.photos">https://picsum.photos</a>
 <br>
-• <a href="https://loremflickr.com">https://loremflickr.com</a>
+• <a href="https://sirv.com">https://sirv.com</a>
 <br>
 • <a href="https://source.unsplash.com">https://source.unsplash.com</a>
+<br>
+• <a href="https://statically.io">https://statically.io</a>
 </p>
 <h2 id="monitor">Monitor</h2>
 <p>
