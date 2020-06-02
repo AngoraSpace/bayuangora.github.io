@@ -28,7 +28,7 @@
 .body {
 margin: 20px;
 text-align: center;
-background-color: #2f363d ;
+background-color: #222;
 }
 .profile {
 max-width: 150px;
@@ -36,21 +36,24 @@ border-radius: 50%;
 }
 .title {
 font-size: 28px;
-color: #fff;
+color: #eee;
 }
 .menu,
 .menu a {
 font-size: 18px;
 font-weight: 700;
 padding: 12px 8px 16px;
-color: #2f363d;
-background: #fff;
+color: #222;
+background: #eee;
 border-radius: 4px;
 text-decoration: none;
 }
+.content {
+text-align: center;
+}
 .copyright,
 .copyright a {
-color: #fff;
+color: #eee;
 font-size: 14px;
 font-weight: 700;
 text-align: center;
@@ -59,15 +62,17 @@ text-align: center;
 </head>
 
 <body class="body">
-<a href="/"><img class="profile" src="https://pbs.twimg.com/profile_images/1251794015957086209/99_kivs5_400x400.jpg"></a>
+<a href="/">
+<img class="profile" src="https://pbs.twimg.com/profile_images/1251794015957086209/99_kivs5_400x400.jpg">
+</a>
 <h1 class="title">Bayu Angora</h1>
-<p class="menu">
+<div class="menu">
 <a href="https://angora.me/blog/">Blog</a>
 <a href="https://angora.me/poem/">Poem</a>
 <a href="https://angora.me/quote/">Quote</a>
 <a href="https://angora.me/about/">About</a>
-</p>
-<div style="text-align: center;">
+</div>
+<div class="content">
 <a class="twitter-timeline" data-theme="light" data-chrome="noheader nofooter" href="https://twitter.com/BayuAngora">Bayu Angora</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
